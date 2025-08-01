@@ -2,7 +2,8 @@
 QEMU: Open Source VM optimized in assembler!
 
 Compiled and automated with MSYS2 — the developer’s Swiss army knife
-🔧 Recently, I created a bash script for MSYS2/Windows that fully automates downloading, configuring, and compiling QEMU, with real assembler (NASM) optimizations and advanced build options.
+
+- Recently, I created a bash script for MSYS2/Windows that fully automates downloading, configuring, and compiling QEMU, with real assembler (NASM) optimizations and advanced build options.
 
 QEMU is one of the most fascinating open source projects for anyone working in virtualization, emulation, embedded systems, or kernel hacking. But when it's built and tuned properly, it can deliver remarkable performance improvements over default binaries.
 
