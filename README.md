@@ -13,15 +13,13 @@ Here’s what the script does:
 3) Optionally injects CACHE_ALIGN (64-byte) alignment in header files
 4) Enables VirtFS support with a simple --virtfs flag
 5) Creates a ready-to-use .tar.gz package
-
-- MSYS2 is a hidden gem: a powerful development environment where you can build everything from system software to video games, Android apps, or even web backends and much more..
+6) MSYS2 is a hidden gem: a powerful development environment where you can build everything from system software to video games, Android apps, or even web backends and much more..
  With a bit of shell scripting, it becomes a full stack development environment on Windows.
-
-- Warning: This is not beginner-friendly!
+7) Warning: This is not beginner-friendly!
  The script targets developers with solid experience in shell scripting, compilers, low-level optimizations, and POSIX-like environments on Windows.
-
-- Put the boost into your applications!
+8) Put the boost into your applications!
  Enough with copy-paste coding — embrace the “Pure Metal Code” philosophy and the results will be nothing short of extraordinary.
+
 If this sounds useful or interesting, feel free to comment or share it!
 
 Feedback, contributions, and collaborations are welcome!
