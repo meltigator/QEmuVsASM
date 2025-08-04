@@ -157,5 +157,6 @@ cd ..
 echo " Creating archive ${ARCHIVE_NAME}..."
 tar -czvf "${ARCHIVE_NAME}" -C "${PREFIX}" .
 
-echo " Build completato con successo! File: ${ARCHIVE_NAME}"
+echo " Build completed with success! File: ${ARCHIVE_NAME}"
+
 
